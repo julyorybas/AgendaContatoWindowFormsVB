@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AgendaContatoVB", "AgendaContatoVB\AgendaContatoVB.vbproj", "{3A683805-FA01-4382-B043-7046380AD464}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A683805-FA01-4382-B043-7046380AD464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A683805-FA01-4382-B043-7046380AD464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A683805-FA01-4382-B043-7046380AD464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A683805-FA01-4382-B043-7046380AD464}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47AD597C-C8A7-4B92-963F-322448571B14}
+	EndGlobalSection
+EndGlobal
